@@ -1,4 +1,9 @@
-<h2>Olar!  Sou a Bárbara Pereira, desenvolvedora front-end, em desenvolvimento...</h2>
+<h2>Olar Pessoas!</h2> <h3>Sou a Bárbara Pereira, desenvolvedora front-end, em desenvolvimento...</h3>
+
+- 👩‍ Pronome: Ela/Dela
+- 👩‍💻 Atualmente trabalhando com Angular
+- 🎓 Formada em Sistemas de Informação 
+<br><br>
 
 <div align="center">
   <a href="https://github.com/barbarapereira">
